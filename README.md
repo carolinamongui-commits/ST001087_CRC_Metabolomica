@@ -87,3 +87,29 @@ El análisis de enriquecimiento en modo positivo permitió explorar rutas metab�
 ## 9. Conclusión
 
 El estudio permitió caracterizar exploratoriamente los perfiles metabólicos del tejido tumoral y la mucosa adyacente en cáncer colorrectal, e identificar señales candidatas para futuras investigaciones. Los resultados constituyen una base para generar hipótesis sobre posibles alteraciones metabólicas, pero requieren validación adicional antes de establecer biomarcadores o rutas metabólicas confirmadas.
+
+## 10. Figuras de los resultados
+
+### 10.1. Modo de ionización positivo
+
+**Análisis de componentes principales (PCA)**
+
+![PCA positivo](figures/Positive/Positive_PCA.jpg)
+
+**Análisis estadístico (ANOVA)**
+
+![ANOVA positivo](figures/Positive/Positive_ANOVA.jpg)
+
+**Enriquecimiento de rutas metabólicas**
+
+![Enriquecimiento positivo](figures/Positive/path_view_0_dpi300.png)
+
+### 10.2. Modo de ionización negativo
+
+**Análisis de componentes principales (PCA)**
+
+![PCA negativo](figures/Negative/pca_score2d_0_dpi150.png)
+
+**Mapa de calor**
+
+![Mapa de calor negativo](figures/Negative/heatmap2_1_dpi150.png)
