@@ -66,6 +66,8 @@ En el modo positivo se identificaron señales exploratorias de interés, mientra
 
 ## 7. Priorización de metabolitos candidatos
 
+Las señales fueron priorizadas por su interés estadístico exploratorio y su posible relevancia biológica. Sin embargo, ninguna alcanzó significancia estadística después de la corrección por comparaciones múltiples (FDR menor de 0,05). Por tanto, deben considerarse metabolitos candidatos y no biomarcadores confirmados.
+
 Se priorizaron señales con interés biológico potencial, entre ellas:
 
 5'-Methylthioadenosine (MTA).
@@ -79,6 +81,8 @@ N²,N²-Dimethylguanosine.
 Acetyl-maltose.
 
 Estas anotaciones son tentativas y requieren validación mediante espectrometría de masas en tándem (MS/MS) y estándares de referencia.
+
+<img width="542" height="335" alt="image" src="https://github.com/user-attachments/assets/8d0c07bf-dab5-4b30-8271-7307d3cc6e74" />
 
 ## 8. Enriquecimiento funcional
 
