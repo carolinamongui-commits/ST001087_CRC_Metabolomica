@@ -113,3 +113,21 @@ El estudio permitió caracterizar exploratoriamente los perfiles metabólicos de
 **Mapa de calor**
 
 ![Mapa de calor negativo](figures/Negative/heatmap2_1_dpi150.png)
+
+## 11. Interpretación de los resultados
+
+### 11.1. Análisis de componentes principales (PCA)
+
+El análisis de componentes principales permitió explorar la distribución de las muestras de tejido tumoral y mucosa adyacente en los modos de ionización positivo y negativo.
+
+**Modo de ionización positivo**
+
+Los dos primeros componentes principales explicaron el 15,6 % de la variabilidad total (PC1 = 8,2 % y PC2 = 7,4 %). En el gráfico no se observa una separación visual claramente definida entre las muestras tumorales y las muestras de mucosa normal.
+
+**Modo de ionización negativo**
+
+Los dos primeros componentes principales explicaron el 27 % de la variabilidad total (PC1 = 17 % y PC2 = 10 %). Aunque se observa una distribución de las muestras en el espacio multivariado, existe superposición entre los grupos tumorales y normales.
+
+**Interpretación general**
+
+En ambos modos de ionización se observa superposición entre las muestras, lo que indica que el PCA no permite establecer una diferenciación visual clara entre el tejido tumoral y la mucosa adyacente. Por esta razón, se complementó el análisis exploratorio con pruebas estadísticas multivariadas y análisis diferencial.
