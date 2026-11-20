@@ -52,12 +52,38 @@ Enriquecimiento de rutas metabólicas.
 
 Integración y priorización de metabolitos candidatos.
 
-## 5. Resultados principales
+## 5. Análisis estadístico y multivariado
 
-Se priorizaron cinco metabolitos candidatos: 5'-metiltioadenosina, N²,N²-dimetilguanosina, AMP, creatina y acetil-maltosa.
+Se realizaron análisis exploratorios mediante PCA y pruebas estadísticas para evaluar las diferencias metabólicas entre tejido tumoral y mucosa adyacente, considerando los modos de ionización positivo y negativo.
 
-La PERMANOVA del modo positivo mostró una asociación entre la condición tumoral y el perfil metabólico global (p ajustado = 0,048). Sin embargo, ningún metabolito individual alcanzó significancia estadística después del ajuste por FDR.
+Se aplicaron modelos lineales ajustados por el sitio anatómico y corrección por pruebas múltiples mediante FDR.
 
-## 6. Conclusión
+## 6. Resultados principales
 
-Los resultados constituyen evidencia exploratoria sobre posibles alteraciones metabólicas asociadas al cáncer colorrectal y permiten formular hipótesis para futuras investigaciones y validaciones experimentales.
+Los análisis exploratorios mostraron diferencias en los perfiles metabólicos entre las condiciones evaluadas. Sin embargo, ningún metabolito individual alcanzó significancia estadística después de la corrección por pruebas múltiples (FDR < 0.05).
+
+En el modo positivo se identificaron señales exploratorias de interés, mientras que en el modo negativo no se obtuvieron metabolitos diferencialmente significativos después del ajuste estadístico.
+
+## 7. Priorización de metabolitos candidatos
+
+Se priorizaron señales con interés biológico potencial, entre ellas:
+
+5'-Methylthioadenosine (MTA).
+
+AMP.
+
+Creatina.
+
+N²,N²-Dimethylguanosine.
+
+Acetyl-maltose.
+
+Estas anotaciones son tentativas y requieren validación mediante espectrometría de masas en tándem (MS/MS) y estándares de referencia.
+
+## 8. Enriquecimiento funcional
+
+El análisis de enriquecimiento en modo positivo permitió explorar rutas metabólicas potencialmente relacionadas con los cambios observados. Ninguna ruta alcanzó significancia estadística después de la corrección por pruebas múltiples.
+
+## 9. Conclusión
+
+El estudio permitió caracterizar exploratoriamente los perfiles metabólicos del tejido tumoral y la mucosa adyacente en cáncer colorrectal, e identificar señales candidatas para futuras investigaciones. Los resultados constituyen una base para generar hipótesis sobre posibles alteraciones metabólicas, pero requieren validación adicional antes de establecer biomarcadores o rutas metabólicas confirmadas.
